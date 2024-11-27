@@ -1,0 +1,12 @@
+[submodule "system"]
+	path = system
+	url = git@github.com:context-clj/system.git
+[submodule "pg"]
+	path = pg
+	url = git@github.com:context-clj/pg.git
+[submodule "http"]
+	path = http
+	url = git@github.com:context-clj/http.git
+[submodule "sample"]
+	path = sample
+	url = git@github.com:context-clj/sample.git
